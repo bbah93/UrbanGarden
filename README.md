@@ -1,8 +1,8 @@
-![](https://github.com/bbah93/UrbanGarden/blob/master/app/src/main/res/drawable/leaflogodarkergreen%20copy.png)
+![](https://github.com/bbah93/UrbanGarden/blob/master/app/src/main/res/drawable/leaflogodarkergreencopy.png)
 
 # UrbanGarden
 
-Urban Garden is an Android app made for Hackathon over the course of a weekend. Urban Gardem helps residents of New York City find and save all of their favorite community gardens across the five boroughs.
+Urban Garden is an Android app made for Hackathon over the course of a weekend. Urban Garden helps residents of New York City find and save all of their favorite community gardens across the five boroughs.
 
 ## Features 
 - User Profiles
